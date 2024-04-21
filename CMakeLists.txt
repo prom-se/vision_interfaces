@@ -15,6 +15,8 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/AutoAim.msg"
   "msg/Armor.msg"
   "msg/Armors.msg"
+  "msg/Car.msg"
+  "msg/CustomCtrl.msg"
   DEPENDENCIES 
   geometry_msgs
 )
