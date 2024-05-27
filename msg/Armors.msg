@@ -1,1 +1,0 @@
-vision_interfaces/Armor[] armors
